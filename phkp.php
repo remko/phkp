@@ -3,13 +3,12 @@
 /*
  * PHKP: A PHP implementation for a HKP keyserver.
  * http://el-tramo.be/software/phkp
- * (c) 2006 Remko Troncon
- * 
- * WARNING: THIS SOFTWARE IS NOT PRODUCTION-READY. IT PROBABLY CONTAINS
- * BUGS AND SECURITY LEAKS. USE AT YOUR OWN RISK !!!
  *
- * See README in the source tree for installation.
- * See COPYING in the source tree for license information.
+ * See the README.md file for installation.
+ *
+*  Copyright (c) 2006 Remko Tronçon
+*  Licensed under the GNU General Public License.
+*  See the COPYING file for more information.
  */
 
 // The command to start pgp. Currently only works with GnuPG
